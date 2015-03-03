@@ -10,6 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Dequeue jQuery Migrate
+ * Plugin URI:        https://github.com/cedaro/dequeue-jquery-migrate
  * Description:       Remove the jquery-migrate.js script dependency.
  * Version:           1.0.0
  * Author:            Cedaro
