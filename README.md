@@ -1,12 +1,5 @@
 # Dequeue jQuery Migrate
 
-Remove the jquery-migrate.js script dependency.
-
-__Contributors:__ [Brady Vercher](https://twitter.com/bradyvercher)  
-__Requires:__ 4.0  
-__Tested up to:__ 4.1  
-__License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
-
 Removes the jquery-migrate.js script from the list of jQuery dependencies to keep it from loading on the front end when it's not needed.
 
 ## Installation ##
